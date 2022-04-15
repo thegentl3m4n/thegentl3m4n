@@ -1,5 +1,5 @@
 
-<img src="/thegentl3m4n/morten-langelund-jakobsen-officer-gif.gif">
+<img src="morten-langelund-jakobsen-officer-gif.gif">
 
 
 <!-- 
