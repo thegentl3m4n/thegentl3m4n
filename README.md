@@ -1,4 +1,4 @@
-<img src="morten-langelund-jakobsen-officer-gif.gif" height=500px width=500px>
+<img src="morten-langelund-jakobsen-officer-gif.gif" height=700px width=700px>
 
 <!-- 
 morten-langelund-jakobsen-officer-gif.gif
