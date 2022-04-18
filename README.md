@@ -1,4 +1,4 @@
-<img src="maxresdefault.jpg" height=700px width=700px>
+<img src="maxresdefault.jpg">
 
 <!-- 
 morten-langelund-jakobsen-officer-gif.gif
